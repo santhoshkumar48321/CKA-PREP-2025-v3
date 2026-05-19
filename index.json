@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "name": "Question 1: MariaDB Persistent volume",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-1-MariaDB-Persistent-volume"
+    },
+    {
+      "name": "Question 2: ArgoCD",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-2-ArgoCD"
+    },
+    {
+      "name": "Question 3: Sidecar",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-3-Sidecar"
+    },
+    {
+      "name": "Question 4: Resource Allocation",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-4-Resource-Allocation"
+    },
+    {
+      "name": "Question 5: HPA",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-5-HPA"
+    },
+    {
+      "name": "Question 6: CRDs",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-6-CRDs"
+    },
+    {
+      "name": "Question 7: PriorityClass",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-7-PriorityClass"
+    },
+    {
+      "name": "Question 8: CNI Network Policy",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-8-CNI-Network-Policy"
+    },
+    {
+      "name": "Question 9: Cri Dockerd",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-9-Cri-Dockerd"
+    },
+    {
+      "name": "Question 10: Taints Tolerations",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-10-Taints-Tolerations"
+    },
+    {
+      "name": "Question 11: Gateway API",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-11-Gateway-API"
+    },
+    {
+      "name": "Question 12: Ingress",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-12-Ingress"
+    },
+    {
+      "name": "Question 13: Network Policy",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-13-Network-Policy"
+    },
+    {
+      "name": "Question 14: Storage Class",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-14-Storage-Class"
+    },
+    {
+      "name": "Question 15: Etcd Fix",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-15-Etcd-Fix"
+    },
+    {
+      "name": "Question 16: NodePort",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-16-NodePort"
+    },
+    {
+      "name": "Question 17: TLS Config",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-17-TLS-Config"
+    },
+    {
+      "name": "Question 18: Kubectl Patch",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-18-Kubectl-Patch"
+    },
+    {
+      "name": "Question 19: Resource Allocation v2",
+      "description": "Exam-style CKA practice scenario",
+      "path": "Question-19-Resource-Allocation-v2"
+    }
+  ]
+}

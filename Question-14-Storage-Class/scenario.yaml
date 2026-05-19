@@ -1,19 +1,19 @@
 slug: cka-prep-q14-storage-class
 id: ckaq14storageclass
 type: challenge
-title: "Question 14: Storage Class"
-teaser: "Exam-style CKA practice scenario"
+title: 'Question 14: Storage Class'
+teaser: Exam-style CKA practice scenario
 difficulty: intermediate
 timelimit: 1800
 tabs:
-  - title: Terminal
-    type: terminal
-    hostname: host01
+- title: Terminal
+  type: terminal
+  hostname: host01
 details:
   intro:
-    text: ../.killercoda/intro.md
-    code: ../.killercoda/start-scenario.sh
+    text: intro.md
+    code: start-scenario.sh
   finish:
-    text: ../.killercoda/finish.md
+    text: finish.md
 backend:
   imageid: killer-kubernetes-playground

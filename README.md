@@ -16,7 +16,7 @@ Straightforward CKA practice labs derived from the CKA-PREP playlist. Every ques
 
 ## How to Use
 
-1. Launch the [Killercoda CKA playground](https://killercoda.com/playgrounds/scenario/cka) or your own cluster.
+1. Launch the [KillerCoda CKA playground](https://killercoda.com/playgrounds/scenario/cka) or your own cluster.
 2. Clone this repo inside the environment:
    ```bash
    git clone https://github.com/santhoshkumar48321/CKA-PREP-2025-v3.git ~/CKA-PREP-2025-v3
@@ -62,9 +62,9 @@ The script outputs `PASS` or `FAIL` for each check, with a final score summary. 
 
 ## Simulated Exam Desktop (VSCodium)
 
-You can use **VSCodium** (an open-source VS Code build) inside the Killercoda simulated desktop to edit files in a familiar IDE environment, similar to what is available in the real CKA exam.
+You can use **VSCodium** (an open-source VS Code build) inside the KillerCoda simulated desktop to edit files in a familiar IDE environment, similar to what is available in the real CKA exam.
 
-> **NOTE: A paid Killercoda subscription is required** for the simulated desktop environment.
+> **NOTE: A paid KillerCoda subscription is required** for the simulated desktop environment.
 > Without it, the desktop GUI is not available and VSCodium cannot be launched graphically.
 
 ### Install VSCodium

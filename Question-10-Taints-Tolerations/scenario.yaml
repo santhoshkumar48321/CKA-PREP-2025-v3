@@ -1,0 +1,19 @@
+slug: cka-prep-q10-taints-tolerations
+id: ckaq10taintstolera
+type: challenge
+title: "Question 10: Taints Tolerations"
+teaser: "Exam-style CKA practice scenario"
+difficulty: intermediate
+timelimit: 1800
+tabs:
+  - title: Terminal
+    type: terminal
+    hostname: host01
+details:
+  intro:
+    text: ../.killercoda/intro.md
+    code: ../.killercoda/start-scenario.sh
+  finish:
+    text: ../.killercoda/finish.md
+backend:
+  imageid: killer-kubernetes-playground

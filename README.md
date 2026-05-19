@@ -16,11 +16,11 @@ Straightforward CKA practice labs derived from the CKA-PREP playlist. Every ques
 
 ## How to Use
 
-1. Launch the [Killercoda CKA playground]([https://killercoda.com/cka](https://killercoda.com/playgrounds/scenario/cka) or your own cluster.
+1. Launch the [Killercoda CKA playground](https://killercoda.com/playgrounds/scenario/cka) or your own cluster.
 2. Clone this repo inside the environment:
    ```bash
-   git clone https://github.com/markdjones82/CKA-PREP-2025-v2.git ~/CKA-PREP-2025-v2
-   cd ~/CKA-PREP-2025-v2
+   git clone https://github.com/santhoshkumar48321/CKA-PREP-2025-v3.git ~/CKA-PREP-2025-v3
+   cd ~/CKA-PREP-2025-v3
    ```
 3. Run a question setup by number:
    ```bash
@@ -75,11 +75,21 @@ scripts/install-codium.sh
 ### Launch VSCodium
 Once installed, open it from inside your repo:
 ```bash
-cd ~/CKA-PREP-2025-v2
+cd ~/CKA-PREP-2025-v3
 codium --no-sandbox --user-data-dir .
 ```
 
 This opens VSCodium in the current directory, allowing you to browse and edit all question files directly.
+
+---
+
+## KillerCoda Scenario Structure
+
+This repository includes KillerCoda metadata so each question can be launched independently:
+
+- Root `index.json` lists all question scenarios.
+- Each `Question-*` directory includes `scenario.yaml`.
+- Shared scenario runtime assets are in `.killercoda/`.
 
 ---
 

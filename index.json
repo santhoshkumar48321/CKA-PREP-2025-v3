@@ -1,0 +1,101 @@
+{
+  "title": "CKA PREP 2025 v3",
+  "description": "Professional CKA practice scenarios for KillerCoda.",
+  "scenarios": [
+    {
+      "path": "Question-1-MariaDB-Persistent-volume",
+      "title": "Question 1: MariaDB Persistent volume",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-2-ArgoCD",
+      "title": "Question 2: ArgoCD",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-3-Sidecar",
+      "title": "Question 3: Sidecar",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-4-Resource-Allocation",
+      "title": "Question 4: Resource Allocation",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-5-HPA",
+      "title": "Question 5: HPA",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-6-CRDs",
+      "title": "Question 6: CRDs",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-7-PriorityClass",
+      "title": "Question 7: PriorityClass",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-8-CNI-Network-Policy",
+      "title": "Question 8: CNI Network Policy",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-9-Cri-Dockerd",
+      "title": "Question 9: Cri Dockerd",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-10-Taints-Tolerations",
+      "title": "Question 10: Taints Tolerations",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-11-Gateway-API",
+      "title": "Question 11: Gateway API",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-12-Ingress",
+      "title": "Question 12: Ingress",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-13-Network-Policy",
+      "title": "Question 13: Network Policy",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-14-Storage-Class",
+      "title": "Question 14: Storage Class",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-15-Etcd-Fix",
+      "title": "Question 15: Etcd Fix",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-16-NodePort",
+      "title": "Question 16: NodePort",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-17-TLS-Config",
+      "title": "Question 17: TLS Config",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-18-Kubectl-Patch",
+      "title": "Question 18: Kubectl Patch",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    },
+    {
+      "path": "Question-19-Resource-Allocation-v2",
+      "title": "Question 19: Resource Allocation v2",
+      "description": "Exam-style CKA lab with setup, task prompt, validation, and cleanup scripts."
+    }
+  ]
+}

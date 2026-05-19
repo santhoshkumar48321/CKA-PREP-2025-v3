@@ -1,0 +1,19 @@
+slug: cka-prep-q15-etcd-fix
+id: ckaq15etcdfix
+type: challenge
+title: "Question 15: Etcd Fix"
+teaser: "Exam-style CKA practice scenario"
+difficulty: intermediate
+timelimit: 1800
+tabs:
+  - title: Terminal
+    type: terminal
+    hostname: host01
+details:
+  intro:
+    text: ../.killercoda/intro.md
+    code: ../.killercoda/start-scenario.sh
+  finish:
+    text: ../.killercoda/finish.md
+backend:
+  imageid: killer-kubernetes-playground

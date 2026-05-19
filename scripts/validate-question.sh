@@ -87,11 +87,8 @@ if [[ "$INPUT" == "all" ]]; then
   echo -e "${CYAN}|        CKA Practice Questions - Full Validation        |${NC}"
   echo -e "${CYAN}+==========================================================+${NC}"
 
-  for i in $(seq 1 17); do
-    QUESTION_DIR=$(resolve_question_dir "$i")
-    if [[ -z "$QUESTION_DIR" ]]; then
-      continue
-    fi
+  while IFS= read -r QUESTION_DIR; do
+    [[ -z "$QUESTION_DIR" ]] && continue
 
     TOTAL_QUESTIONS=$((TOTAL_QUESTIONS + 1))
     run_validation "$QUESTION_DIR"
@@ -103,7 +100,7 @@ if [[ "$INPUT" == "all" ]]; then
     else
       FAILED_QUESTIONS=$((FAILED_QUESTIONS + 1))
     fi
-  done
+  done < <(find "$BASE_DIR" -maxdepth 1 -type d -name "Question-*" | sort -V)
 
   echo ""
   echo -e "${CYAN}==========================================================${NC}"

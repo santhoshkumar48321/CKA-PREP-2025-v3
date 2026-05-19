@@ -1,0 +1,19 @@
+slug: cka-prep-q19-resource-allocation-v2
+id: ckaq19resourceallo
+type: challenge
+title: "Question 19: Resource Allocation v2"
+teaser: "Exam-style CKA practice scenario"
+difficulty: intermediate
+timelimit: 1800
+tabs:
+  - title: Terminal
+    type: terminal
+    hostname: host01
+details:
+  intro:
+    text: ../.killercoda/intro.md
+    code: ../.killercoda/start-scenario.sh
+  finish:
+    text: ../.killercoda/finish.md
+backend:
+  imageid: killer-kubernetes-playground
